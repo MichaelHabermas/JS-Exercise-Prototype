@@ -113,7 +113,7 @@ Baby.prototype.play = function () {
 
 ///////// END OF CHALLENGE /////////
 
-/* 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 Please do not modify anything below this line 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 */
+/* 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 Please do not modify anything below this line 🛑🛑🛑🛑🛑🛑🛑🛑🛑 */
 function foo() {
 	return 'bar';
 }
